@@ -11,7 +11,7 @@ int main(){
         0 0 0 0 0 ....... 1
         0 0 0 0 0 0 0 0 0 1
         count = 10
-     */
+    */
     int *arr = new int[n];
     for(int i = 0; i < n; i++){
         cin >> arr[i];
