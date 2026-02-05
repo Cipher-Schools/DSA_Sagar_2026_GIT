@@ -21,11 +21,9 @@ class Demo{
 int Demo::x = 0;
 
 int main(){
-
     // Demo obj; // obj on stack
     // Demo* obj1 = new Demo(); // obj on heap
     // delete obj1;
-
     int n = 5;
     // Demo arr1[n]; // array of demo on stack
 
